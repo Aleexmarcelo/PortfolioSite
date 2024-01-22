@@ -81,7 +81,7 @@ body,
 html {
     margin: 0;
     padding: 0;
-    background-color: #fff;
+    background-color: #dbdbdb;
     color: #444452;
     font-family: Raleway, "Source Sans Pro", Helvetica, Arial, sans-serif;
     line-height: 1.5
@@ -1084,7 +1084,7 @@ html #top-button img {
 .featured-projects .project__pic img {
     width: 100%;
     max-width: 100%;
-    vertical-align: bottom
+    vertical-align: bottom;
 }
 
 .featured-projects .project__caption {
@@ -1230,10 +1230,10 @@ html #top-button img {
 .footer__links a {
     position: relative;
     display: inline-block;
-    color: #ac3232 !important;
+    color: #ca2222 !important;
     text-transform: uppercase;
     font-weight: 700;
-    margin: 0 15px;
+    margin: 0 25px;
     outline: 0
 }
 
